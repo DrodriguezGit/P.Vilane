@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "clean-excel"
+version = "0.1.0"
+description = ""
+authors = ["David <drodriguez@triplealpha.in>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.11"
+pandas = "^2.2.3"
+numpy = "^2.2.5"
+openpyxl = "^3.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "logs"
+version = "0.1.0"
+description = ""
+authors = ["David <drodriguez@triplealpha.in>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tai-alphi = "^1.0.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
