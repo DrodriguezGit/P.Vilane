@@ -50,9 +50,10 @@ Contiene scripts de Python que procesan y transforman los archivos .xlsx en vari
      - Salida: excel_limpio_4.xlsx
 
      - Objetivo: Limpieza final y formato adecuado para Power BI.
+  
 
 📊 Resultado final
 
-   + Archivo final: excel_limpio_4.xlsx
+   + Archivo final: resultado.csv
 
    + Uso: Importado directamente en Power BI para visualización.
