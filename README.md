@@ -1,5 +1,5 @@
-# P-PAZ-012025-PazoDeVilane
-Limpieza de datos de Pazo de Vilane para su integración en BI
+# P-PAZ-012025-P.Vilane
+Limpieza de datos de P. Vilane para su integración en BI
 
 Dentro de la carpeta data están los nuevos archivos .xlsx que se van generando. El principal es el archivo datos.xlsx que es donde están los datos originales.
 
